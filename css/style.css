@@ -1,0 +1,77 @@
+.header{
+	background-color: black;
+	min-height: 100px;
+}
+.h2{
+	color: red;
+	text-align: center;
+}
+.parent{
+	overflow: hidden;
+	border: 2px solid red;
+}
+.blog{
+	background-color: blue;
+	min-height: 250px;
+	width: 80%;
+	float: left;
+}
+#h2{
+	font-size: 30px;
+	color: black;
+}
+.content{
+	background-color: lime;
+	min-height: 250px;
+	width: 20%;
+	float: right;
+}
+.h3{
+	font-size: 30px;
+	color: black;
+	text-align: center;
+}
+.gallery{
+	overflow: hidden;
+	border: 2px solid black;
+}
+.box{
+	min-height: 200px;
+	min-width: 25%;
+	float: left;
+}
+.box1{
+	background-color: green;
+	min-width: 30%;
+}
+.box2{
+	background-color: white;
+	min-width: 25%;
+}
+.box3{
+	background-color: lightblue;
+	min-width: 30%;
+}
+.box4{
+	background-color: pink;
+	min-width: 15%;
+}
+.footer{
+	background-color: pink;
+	min-height: 150px;
+}
+.map{
+	background-color: gray;
+	min-height: 150px;
+	min-width: 50%;
+	float: left;
+}
+.h1{
+	text-align: center;
+}
+.news{
+	background-color: white;
+	min-height: 150px;
+	min-width: 50%;
+	float: right;
+}
